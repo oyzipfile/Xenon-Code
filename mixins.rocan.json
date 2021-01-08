@@ -1,0 +1,8 @@
+{
+	"required": true,
+	"compatibilityLevel": "JAVA_8",
+	"package": "club.max.xenon.mixin.mixins",
+	"refmap": "mixins.xenon.refmap.json",
+	"mixins": [
+	]
+}
